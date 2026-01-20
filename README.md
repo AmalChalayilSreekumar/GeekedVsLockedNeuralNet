@@ -4,7 +4,7 @@ A real-time face recognition neural network using PyTorch, NumPy, computer visio
 
 <div align="center">
 
-### 📸 Example Training Images
+### Example Training Images
 
 | Geeked Example |  Locked In Example |
 |:---:|:---:|
